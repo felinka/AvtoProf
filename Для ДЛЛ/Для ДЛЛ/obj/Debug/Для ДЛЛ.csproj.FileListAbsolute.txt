@@ -1,0 +1,7 @@
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\bin\Debug\Для ДЛЛ.exe.config
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\bin\Debug\Для ДЛЛ.exe
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\bin\Debug\Для ДЛЛ.pdb
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\obj\Debug\Для ДЛЛ.csproj.AssemblyReference.cache
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\obj\Debug\Для ДЛЛ.csproj.CoreCompileInputs.cache
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\obj\Debug\Для ДЛЛ.exe
+C:\Users\qwerf\Desktop\Практика\СУБД Автопрофессионал\СУБД Автопрофессионал\Для ДЛЛ\Для ДЛЛ\obj\Debug\Для ДЛЛ.pdb

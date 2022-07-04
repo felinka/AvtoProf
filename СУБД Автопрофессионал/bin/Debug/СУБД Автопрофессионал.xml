@@ -1,0 +1,350 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>СУБД Автопрофессионал</name>
+    </assembly>
+    <members>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.CategoryDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ManufacturerDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.OrderDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.OrderProductDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.PickupPointDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ProductDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ProviderDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.RoleDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.UserDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.allManufNameDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.CategoryRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ManufacturerRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.OrderRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.OrderProductRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.PickupPointRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ProductRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ProviderRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.RoleRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.UserRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.allManufNameRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.CategoryRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ManufacturerRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.OrderRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.OrderProductRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.PickupPointRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ProductRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.ProviderRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.RoleRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.UserRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSet.allManufNameRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.CategoryTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.ManufacturerTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.OrderTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.OrderProductTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.PickupPointTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.ProductTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.ProviderTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.RoleTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.UserTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.allManufNameTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(СУБД_Автопрофессионал.AvtoprofFelDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(СУБД_Автопрофессионал.AvtoprofFelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(СУБД_Автопрофессионал.AvtoprofFelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.UpdateAll(СУБД_Автопрофессионал.AvtoprofFelDataSet)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.AvtoprofFelDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="F:СУБД_Автопрофессионал.FormAddEdit.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormAddEdit.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormAddEdit.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormMain.GetCapcha">
+            <summary>
+            Создание капчи
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormMain.btnOk_Click(System.Object,System.EventArgs)">
+            <summary>
+            Авторизация пользователя
+            </summary>
+        </member>
+        <member name="F:СУБД_Автопрофессионал.FormMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormTovar.OutputProduct">
+            <summary>
+            Вывод списка товаров
+            </summary>
+        </member>
+        <member name="F:СУБД_Автопрофессионал.FormTovar.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormTovar.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.FormTovar.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:СУБД_Автопрофессионал.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:СУБД_Автопрофессионал.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:СУБД_Автопрофессионал.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:СУБД_Автопрофессионал.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:СУБД_Автопрофессионал.Properties.Resources.logo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:СУБД_Автопрофессионал.Properties.Resources.Безымянный">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
